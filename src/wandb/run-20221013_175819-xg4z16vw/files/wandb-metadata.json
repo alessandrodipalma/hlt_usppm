@@ -1,0 +1,23 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.8.9",
+    "heartbeatAt": "2022-10-13T15:58:28.603017",
+    "startedAt": "2022-10-13T15:58:19.268811",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1650 with Max-Q Design",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "src/pppm-deberta-v3-large-baseline-w-w-b-train.ipynb",
+    "root": "C:/dev/hlt_usppm",
+    "git": {
+        "remote": "git@github.com:alessandrodipalma/hlt_usppm.git",
+        "commit": "a0fc14c43b8a5d92cd2c120701839848a6c55a26"
+    },
+    "email": "a.dipalma9@studenti.unipi.it",
+    "host": "DESKTOP-KOMONMP",
+    "username": "al",
+    "executable": "c:\\users\\al\\appdata\\local\\programs\\python\\python38\\python.exe"
+}
