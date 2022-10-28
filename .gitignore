@@ -129,3 +129,8 @@ dmypy.json
 .pyre/
 
 dataset/
+src/.ipynb_checkpoints/
+src/lightning_logs/
+src/tokenizer/
+src/wandb
+src/model*
