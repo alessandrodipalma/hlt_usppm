@@ -134,3 +134,4 @@ src/lightning_logs/
 src/tokenizer/
 src/wandb
 src/model*
+src/checkpoints/
